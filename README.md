@@ -1,2 +1,2 @@
 # axiom-manifesto
-Axiom Manifesto v2.0 — Conceptual framework for agent-native commerce on Kaspa + Igra
+Axiom Manifesto v1.3 — Conceptual framework for agent-native commerce on Kaspa + Igra
